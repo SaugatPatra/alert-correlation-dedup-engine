@@ -36,7 +36,7 @@ During a significant infrastructure incident, monitoring systems can generate hu
 - Python (parsing, distance metric, clustering)
 - scikit-learn (DBSCAN)
 - Drain3 (log parsing)
-- [Frontend framework — fill in once chosen] (dashboard)
+- [Frontend framework — not decided yet] (dashboard)
 
 ## Setup & Run
 
