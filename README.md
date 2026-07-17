@@ -1,4 +1,4 @@
-# Alert Correlation & Deduplication Engine
+# PageZero: An Alert Correlation & Deduplication Engine
 
 Built by Team Hack-a-Throne for the HPE Synergy 2026 Hackathon.
 
