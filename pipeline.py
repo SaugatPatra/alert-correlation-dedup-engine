@@ -28,7 +28,7 @@ TEXT_DISTANCE_EPS = 0.35      # DBSCAN eps - max TF-IDF cosine distance to be ne
 MIN_SAMPLES = 2               # need at least 2 alerts to form a real cluster
 UNREACHABLE_DISTANCE = 1000.0 # forces DBSCAN to never bridge alerts outside the time window
 
-SEVERITY_MAP = {"INFO": 1, "WARNING": 2, "ERROR": 3, "FATAL": 4}
+SEVERITY_MAP = {"INFO": 1, "WARNING": 2, "ERROR": 3, "SEVERE": 4, "FATAL": 5}
 
 _cache = {}
 
